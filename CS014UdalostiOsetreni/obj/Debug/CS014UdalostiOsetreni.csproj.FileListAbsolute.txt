@@ -1,0 +1,19 @@
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\bin\Debug\CS014UdalostiOsetreni.exe.config
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\bin\Debug\CS014UdalostiOsetreni.exe
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\bin\Debug\CS014UdalostiOsetreni.pdb
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.csprojAssemblyReference.cache
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.UdalostiOsetreniForm.resources
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.Properties.Resources.resources
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.csproj.GenerateResource.cache
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.exe
+D:\Users\jakub\source\repos\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.pdb
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\bin\Debug\CS014UdalostiOsetreni.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\bin\Debug\CS014UdalostiOsetreni.exe
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\bin\Debug\CS014UdalostiOsetreni.pdb
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.UdalostiOsetreniForm.resources
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.exe
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS014UdalostiOsetreni\CS014UdalostiOsetreni\obj\Debug\CS014UdalostiOsetreni.pdb
